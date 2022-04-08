@@ -92,34 +92,7 @@
     background-color: #f9882c;
     transition: 0.8s;
 }
-/* @media screen and (min-width: 390px){
-    .container{
-        width: 370px;
-    }
-    .site-nav__logo img{
-        width: 42px;
-        height: 30px;
-    }
-    .site-nav__link{
-        visibility: hidden;
-    }
-    .fa-bars{
-        visibility: visible;
-        margin-left: 225px;
-    }
-    .site-nav__line{
-       visibility: hidden;
-    }
-    .site-nav__phone{
-       visibility: hidden;
-    }
-    .site-nav__btn{
-       visibility: hidden;
-    }
-    .site-header__text{
-        margin-top: -100px;
-    }
-} */
+
 .site-header__text{
     width: 556px;
     text-align: center;
@@ -489,5 +462,6 @@ span{
     background-size: cover;
     background-repeat: no-repeat;
 }
+@media only screen and (min)
 
 
